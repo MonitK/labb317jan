@@ -1,3 +1,4 @@
+// four function calculator
 #include<iostream.h
 class CALC
 {
